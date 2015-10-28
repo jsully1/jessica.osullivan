@@ -1,0 +1,29 @@
+# Site settings
+title: Portfolio
+email:
+description: > # this means to ignore newlines until "baseurl:"
+ This portfolio is designed to display academic and personal projects that illustrate my
+ interests and proficiencies. My primary interests include geology and urban planning; 
+ however, projects in varying fields might make their way in here. 
+baseurl: "jessica.osullivan/" # the subpath of your site, e.g. /blog/
+url: "http://jsully1.github.io/" # the base hostname & protocol for your site
+
+# User setting
+owner: Jessica O'Sullivan
+avatar: http://i.imgur.com/ZUaM5bp.jpg
+email:
+facebook_username: Jessie O'Sullivan
+twitter_username:
+github_username: jsully1
+address: Squamish, BC, Canada
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown

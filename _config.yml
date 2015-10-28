@@ -1,20 +1,21 @@
 # Site settings
-title:
+title: Portfolio
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This portfolio is designed to display academic and personal projects that illustrate my
+ interests and proficiencies. My primary interests include geology and urban planning; 
+ however, projects in varying fields might make their way in here. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
+owner: Jessica O'Sullivan
+avatar: http://i.imgur.com/ZUaM5bp.jpg
 email:
-facebook_username:
+facebook_username: Jessie O'Sullivan
 twitter_username:
-github_username:
-address:
+github_username: jsully1
+address: Squamish, BC, Canada
   - line:
   - line:
   # Feel free to add more lines here 
